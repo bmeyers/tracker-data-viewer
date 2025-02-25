@@ -10,3 +10,7 @@ This repositiory contains a Marimo notebook/app for viewing the tracker and powe
   - `9068_tracker_data.csv`
 4. Put these files in the cloned repository on your computer
 5. From the command line in the root of the repository, run `marimo run 9068_data_viewer.py`
+
+## Using marimo
+
+For more information on the marimo notebook, check out [docs.marimo.io/](https://docs.marimo.io/)
