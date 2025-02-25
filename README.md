@@ -1,5 +1,5 @@
 # tracker-data-viewer
-This repositiory contains a Marimo notebook/app for viewing the tracker and power data from Solar Data Prize site 9068
+This repositiory contains a Marimo notebook/app for viewing the tracker and power data from [Solar Data Prize](https://www.nrel.gov/news/program/2023/solar-data-bounty-prize-stage-1-finalists-selected.html) site 9068, Namaste Solar Electric Inc. in Denver, Colorado. This is a single-axis tracker site with tracker angle data provided for 224 individual trackers at the site, across four inverter blocks.
 
 ## Quick start
 
